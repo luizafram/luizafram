@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo Luíza</h1>
-<h3 align="center" style="font-family: CG Times;>Sou uma desenvolvedora apaixonada por Backend, e me desafio as vezes no Frontend. Sou fascinada na arte de aprender novas tecnologias, obter novas habilidades e poder compartilha-las com o mundo!</h3>
+<h3 align="center" style="font-family: 'Courier New', monospace;">Sou uma desenvolvedora apaixonada por Backend, e me desafio as vezes no Frontend. Sou fascinada na arte de aprender novas tecnologias, obter novas habilidades e poder compartilha-las com o mundo!</h3>
 
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
