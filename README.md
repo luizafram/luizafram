@@ -1,13 +1,11 @@
 <h1 align="center">Olá, me chamo Luíza</h1>
-<div align="center">
-  <h3>🎯 Sobre Mim</h3>
-  <p>
-    💻 Desenvolvedora apaixonada por <strong>Backend</strong>, com desafios ocasionais no <strong>Frontend</strong>
-    <br/>
-    <br/>
-    ✨ Fascinada pela arte de aprender novas tecnologias e compartilhar conhecimento com o mundo! 🚀
-  </p>
-</div>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%9C;Frontend+Explorer+%F0%9F%8E%A8;Lifelong+Learner+%E2%9C%A8;Knowledge+Sharer+%F0%9F%9A%80" alt="Typing SVG" />
+</h3>
+
+<p align="center">
+  Desenvolvedora apaixonada por Backend, explorando Frontend e fascinada pela arte de aprender e compartilhar conhecimento!
+</p>
 
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
