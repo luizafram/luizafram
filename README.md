@@ -5,9 +5,9 @@
 <h3>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%9C;Frontend+Explorer+%F0%9F%8E%A8;Lifelong+Learner+%E2%9C%A8;Knowledge+Sharer+%F0%9F%9A%80" alt="Typing SVG" />
 </h3>
-<h1>
+<p style="font-size: 18px;>
   Desenvolvedora apaixonada por Backend, explorando Frontend e fascinada pela arte de aprender e compartilhar conhecimento!
-</h1>
+</p>
 <br/>
 
 <br/>
