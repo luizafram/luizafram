@@ -13,8 +13,6 @@
 <br/>
 <br/>
 
-<br/>
-
 <h5>🛠️ Tecnologias & Ferramentas</h5>
 <p>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
