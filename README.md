@@ -1,9 +1,13 @@
 <h1 align="center">Olá, me chamo Luíza</h1>
-<h3 align="center">
-  💻 Sou uma desenvolvedora apaixonada por <strong>Backend</strong>, e me desafio às vezes no <strong>Frontend</strong>
-  <br/>
-  ✨ Sou fascinada na arte de aprender novas tecnologias, obter novas habilidades e poder compartilhá-las com o mundo! 🚀
-</h3>
+<div align="center">
+  <h3>🎯 Sobre Mim</h3>
+  <p>
+    💻 Desenvolvedora apaixonada por <strong>Backend</strong>, com desafios ocasionais no <strong>Frontend</strong>
+    <br/>
+    <br/>
+    ✨ Fascinada pela arte de aprender novas tecnologias e compartilhar conhecimento com o mundo! 🚀
+  </p>
+</div>
 
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
